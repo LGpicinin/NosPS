@@ -1,0 +1,38 @@
+body{
+    background: var(--Zinc-50, #FAFAFA);
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 5px;
+}
+
+main{
+    margin-top: 5%;
+}
+
+#Principal{
+    margin-top: 40px;
+    justify-content: baseline;
+}
+
+footer{
+    width: 100%;
+    position: fixed;
+    left: 0;
+    margin-top: 200px;
+}
+
+.Links{
+    color: #27272A;
+    font-family: 'Open Sans';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#subTitulo{
+    font-family: 'Open Sans';
+}
+
+
